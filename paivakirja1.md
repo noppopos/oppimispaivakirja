@@ -6,6 +6,8 @@ Menin osassa tehtävistä hieman sekaisin järjestyksestä, esim. tyylit haaran 
 
 ## Osiossa käyttämäni Git-komennot
 
+```text
+
 mkdir demo      # luodaan hakemisto
 
 cd demo         # vaihdetaan uusi hakemisto oletushakemistoksi
@@ -45,3 +47,5 @@ git revert      # kokonaisen talletuksen peruuttaminen
 git merge       # haarojen yhdistäminen
 
 --no-ff         # yhdistämistalletuksen pakotus
+
+```

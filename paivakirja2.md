@@ -6,6 +6,8 @@ Muutamia kertoja luulin tehneeni jo jotain väärin, kun vaikutti antavan virhei
 
 ## Osiossa käyttämäni Git-komennot
 
+```text
+
 git clone       # repositorion kopiointi
 
 git remote add  # etärepositorion määrittely
@@ -25,3 +27,5 @@ git pull        # uusien tietojen haku etärepositoriosta nykyiseen haaraan ja n
 git push        # paikallisen repositorion tietojen synkronointi etärepositorioon
 
 git merge       # haarojen yhdistäminen
+
+```
